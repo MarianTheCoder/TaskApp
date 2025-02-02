@@ -12,3 +12,9 @@ things i struggled with:
 - managing the case scenarios with the task being edited.
 - auto saving for the notes.
 - making good use of the Routes and ContextAPI.
+
+Steps to start:
+- Start the Frontend with npm run dev
+- Start the backend with nodemon server.js
+
+- Create an account then login, add Tasks, add focus sessions or Notes. Enjoy;
